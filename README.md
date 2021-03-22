@@ -1,3 +1,3 @@
 # Area of Triangle
 
-fotriangle area
+triangle area
